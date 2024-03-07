@@ -17,7 +17,7 @@ This is a repository created for OS cource in 2024. Here you can find useful cod
     <details>
     <summary>Blocking Queue</summary>
     
-    * [Implementation](#link)
+    * [Implementation](https://github.com/MichaelKenj/os-2024/blob/hw16_tp/utils/Thread/blocking_queue/blocking_queue.h)
     </details>
     <details>
     <summary>Thread Staff</summary>
@@ -28,8 +28,8 @@ This is a repository created for OS cource in 2024. Here you can find useful cod
     <details>
     <summary>Thread Pool</summary>
 
-    * [Thread Pool (Implementation)](#link)
-    * [Usage](#link)
+    * [Thread Pool (Implementation)](https://github.com/MichaelKenj/os-2024/blob/hw16_tp/utils/Thread/thread_pool/thread_pool.h)
+    * [Usage](https://github.com/MichaelKenj/os-2024/blob/hw16_tp/utils/Thread/thread_pool/main_thread_pool.cpp)
     </details>
 
 
@@ -37,11 +37,11 @@ This is a repository created for OS cource in 2024. Here you can find useful cod
 
   * Logging
 
-    * [Logger (Implementation)](#link)
+    * [Logger (Implementation)](https://github.com/MichaelKenj/os-2024/blob/master/utils/Logging/logger.h)
 
   * Argument Parsing
 
-    * [Argument Parser (Implementation)]()
+    * [Argument Parser (Implementation)](https://github.com/MichaelKenj/os-2024/blob/master/utils/Argument%20Parsing/arg_parser.h)
 
 
   
