@@ -1,6 +1,6 @@
-<span style="font-size:3em;"> #OS-2024 </span>
+#OS-2024 
 
-This is a repository created for OS cource in 2024. Here you can find useful codes written in C++
+## This is a repository created for OS cource in 2024. Here you can find useful codes written in C++
 
 
 
